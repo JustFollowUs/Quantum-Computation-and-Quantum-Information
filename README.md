@@ -49,16 +49,11 @@
 
 书名 | 难度
 :-- | :--: 
-[统计学习方法](https://www.amazon.cn/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA/dp/B007TSFMTA) | 一般
- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
-[Machine Learning](https://www.amazon.com/gp/product/0071154671?ie=UTF8&tag=jefork-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0071154671) | 一般
-[Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
-[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯),[配套讲义](http://cs.brown.edu/courses/csci1420/lectures.html)
-[The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
-[Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
-[Machine Learning: A probabilistic approach](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) | 较难
+[Quantum Computation and Quantum Information, Isaac Chuang and Michael Nielsen, Cambridge University Press; 10th Anniversary ed. Edition. (Solve all exercises in the book, and try to read as many times as possible.)](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) | 一般
+[Theory of Quantum Information, lecture notes by John Watrous.](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) | 一般
+[From Classical to Quantum Shannon Theory, Mark M. Wilde](http://www.markwilde.com/qit-notes.pdf) | 较难
 
-## <h3 id="special_learning">机器学习专项领域学习</h3>
+## <h3 id="special_learning">量子计算和量子信息</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的量子计算和量子信息基础了，已经是一名合格的量子计算和量子信息成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
  
 
