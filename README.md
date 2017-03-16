@@ -1,4 +1,6 @@
-# 量子计算和量子信息  Quantum-Computation-and-Quantum-Information
+# 量子计算和信息  Quantum-Computation-and-Quantum-Information
+
+尚未完善，有空补充。
 
 ## 主要内容
 - [前言](#preparation) 
@@ -28,7 +30,6 @@
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
-
 
 ## <h2 id="learning_route">推荐学习路线</h2>
 
