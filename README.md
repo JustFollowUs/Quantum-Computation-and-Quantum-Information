@@ -1,4 +1,4 @@
-量子计算和量子信息 # Quantum-Computation-and-Quantum-Information
+# 量子计算和量子信息  Quantum-Computation-and-Quantum-Information
 
 ## 主要内容
 - [前言](#preparation) 
@@ -68,4 +68,4 @@
 
 
 ## <h2 id="many_thanks">致谢</h2>
-  感谢南京大学LAMDA实验组杨杨博士的建议与资料的分享。
+  感谢南京大学王琨博士的建议与资料的分享。
