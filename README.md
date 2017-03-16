@@ -49,7 +49,7 @@
 
 书名 | 难度
 :-- | :--: 
-[Quantum Computation and Quantum Information, Isaac Chuang and Michael Nielsen, Cambridge University Press; 10th Anniversary ed. Edition. (Solve all exercises in the book, and try to read as many times as possible.)](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) | 一般
+[Quantum Computation and Quantum Information, Isaac Chuang and Michael Nielsen](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) | 一般
 [Theory of Quantum Information, lecture notes by John Watrous.](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) | 一般
 [From Classical to Quantum Shannon Theory, Mark M. Wilde](http://www.markwilde.com/qit-notes.pdf) | 较难
 
